@@ -13,7 +13,7 @@ int main() {
     char arr[100]={0};
     int j=0;
     while((c=getchar()) != EOF) {
-        
+        yfdrt;
     }
     printf("%d",arr[j]);
     return 0;
